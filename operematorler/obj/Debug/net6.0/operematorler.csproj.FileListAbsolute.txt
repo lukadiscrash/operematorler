@@ -1,0 +1,15 @@
+C:\Users\Uğur\Desktop\baslangic\operematorler\bin\Debug\net6.0\operematorler.exe
+C:\Users\Uğur\Desktop\baslangic\operematorler\bin\Debug\net6.0\operematorler.deps.json
+C:\Users\Uğur\Desktop\baslangic\operematorler\bin\Debug\net6.0\operematorler.runtimeconfig.json
+C:\Users\Uğur\Desktop\baslangic\operematorler\bin\Debug\net6.0\operematorler.dll
+C:\Users\Uğur\Desktop\baslangic\operematorler\bin\Debug\net6.0\ref\operematorler.dll
+C:\Users\Uğur\Desktop\baslangic\operematorler\bin\Debug\net6.0\operematorler.pdb
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.csproj.AssemblyReference.cache
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.AssemblyInfoInputs.cache
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.AssemblyInfo.cs
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.dll
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\ref\operematorler.dll
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.pdb
+C:\Users\Uğur\Desktop\baslangic\operematorler\obj\Debug\net6.0\operematorler.genruntimeconfig.cache
